@@ -1,3 +1,2 @@
 # Ignore specific folder by name
-dbs/
 __pycache__/
